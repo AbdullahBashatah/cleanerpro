@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/items": {
+      "name": "/items",
+      "lambdaFunction": "cleanerpro9c2e7fb1",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
