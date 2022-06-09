@@ -10,6 +10,32 @@
       "StackName": "amplify-cleanerpro-main-01601",
       "StackId": "arn:aws:cloudformation:us-east-1:346272124263:stack/amplify-cleanerpro-main-01601/5854c8d0-e789-11ec-9e17-0e156de9348d",
       "AmplifyAppId": "d2e50fur51mx20"
+    },
+    "categories": {
+      "function": {
+        "cleanerpro9c2e7fb1": {
+          "deploymentBucketName": "amplify-cleanerpro-main-01601-deployment",
+          "s3Key": "amplify-builds/cleanerpro9c2e7fb1-78663668645450313934-build.zip"
+        }
+      }
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cleanerpro-test-103212-authRole",
+      "UnauthRoleArn": "arn:aws:iam::346272124263:role/amplify-cleanerpro-test-103212-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::346272124263:role/amplify-cleanerpro-test-103212-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cleanerpro-test-103212-deployment",
+      "UnauthRoleName": "amplify-cleanerpro-test-103212-unauthRole",
+      "StackName": "amplify-cleanerpro-test-103212",
+      "StackId": "arn:aws:cloudformation:us-east-1:346272124263:stack/amplify-cleanerpro-test-103212/9e1a0ae0-e78b-11ec-aab0-0a8914e80a47",
+      "AmplifyAppId": "d2e50fur51mx20"
+    },
+    "categories": {
+      "function": {
+        "cleanerpro9c2e7fb1": {}
+      }
     }
   }
 }
