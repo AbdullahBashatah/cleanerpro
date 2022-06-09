@@ -1,14 +1,15 @@
 {
-  "dev": {
+  "main": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-cleanerpro-dev-101010-authRole",
-      "UnauthRoleArn": "arn:aws:iam::346272124263:role/amplify-cleanerpro-dev-101010-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::346272124263:role/amplify-cleanerpro-dev-101010-authRole",
+      "AuthRoleName": "amplify-cleanerpro-main-01601-authRole",
+      "UnauthRoleArn": "arn:aws:iam::346272124263:role/amplify-cleanerpro-main-01601-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::346272124263:role/amplify-cleanerpro-main-01601-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-cleanerpro-dev-101010-deployment",
-      "UnauthRoleName": "amplify-cleanerpro-dev-101010-unauthRole",
-      "StackName": "amplify-cleanerpro-dev-101010",
-      "StackId": "arn:aws:cloudformation:us-east-1:346272124263:stack/amplify-cleanerpro-dev-101010/896292f0-e788-11ec-8109-12dbbe21bf9f"
+      "DeploymentBucketName": "amplify-cleanerpro-main-01601-deployment",
+      "UnauthRoleName": "amplify-cleanerpro-main-01601-unauthRole",
+      "StackName": "amplify-cleanerpro-main-01601",
+      "StackId": "arn:aws:cloudformation:us-east-1:346272124263:stack/amplify-cleanerpro-main-01601/5854c8d0-e789-11ec-9e17-0e156de9348d",
+      "AmplifyAppId": "d2e50fur51mx20"
     }
   }
 }
